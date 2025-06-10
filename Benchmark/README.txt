@@ -1,0 +1,1 @@
+Durante la fase di analisi preliminare ho sviluppato tre script di benchmark da utilizzare come “gold standard” per confrontare l’output dei test LLM e verificare la correttezza semantica e logica.
