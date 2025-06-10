@@ -5,10 +5,7 @@ with open("ripe_atlas_basics.txt", "r") as f:
     ripe_context = f.read()
 
 # 2. Query in linguaggio naturale
-user_query = """ 
-
-
-"""
+user_query = """ Hi, What's up? """
 
 # 3. Costruisci il messaggio per la chat (stato mantenuto)
 chat_payload = {
